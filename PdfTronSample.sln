@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfTronSample", "PdfTronSample.csproj", "{DBFAC709-E7EA-49F2-BAEF-A7D49DFF434B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFAC709-E7EA-49F2-BAEF-A7D49DFF434B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFAC709-E7EA-49F2-BAEF-A7D49DFF434B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFAC709-E7EA-49F2-BAEF-A7D49DFF434B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFAC709-E7EA-49F2-BAEF-A7D49DFF434B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41CF0FF3-740F-45EF-ADDC-34B61A0B6FA6}
+	EndGlobalSection
+EndGlobal
